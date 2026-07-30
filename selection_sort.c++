@@ -38,4 +38,8 @@ int main(){
     c.print();
     c.sort();
     c.print();
+    c.input();
+    c.print();
+    c.sort();
+    c.print();
 }
